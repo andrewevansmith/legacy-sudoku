@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library>
-<manage_target braces="true" utf8="false">file:///home/matthew/texmf/bibtex/bib/sudoku.bib</manage_target>
+<manage_target braces="true" utf8="false">archived-reference:sudoku.bib</manage_target>
 <library_folder monitor="true"></library_folder>
 <taglist>
   <tag>
@@ -73,7 +73,7 @@
     <bib_extra key="Publisher">Springer-Verlag</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/matthew/Documents/Collection/Sudoku/delahaye_the_science_behind_sudoku.pdf</filename>
+    <filename>archived-reference:delahaye_the_science_behind_sudoku.pdf</filename>
     <relative_filename></relative_filename>
     <key>delahayethes</key>
     <notes></notes>
@@ -89,7 +89,7 @@
     <bib_year>2006</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/matthew/Documents/Collection/Sudoku/abraham_the_sudoku_package.pdf</filename>
+    <filename>archived-reference:abraham_the_sudoku_package.pdf</filename>
     <relative_filename></relative_filename>
     <key>abrahamthesu</key>
     <notes></notes>
@@ -106,7 +106,7 @@
     <bib_extra key="month">March</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/matthew/Documents/Collection/Sudoku/felgenhauer_jarvis_enumerating_possible_sudoku_grids.pdf</filename>
+    <filename>archived-reference:felgenhauer_jarvis_enumerating_possible_sudoku_grids.pdf</filename>
     <relative_filename></relative_filename>
     <key>felgenhauerja</key>
     <notes></notes>
@@ -123,7 +123,7 @@
     <bib_extra key="month">June</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/matthew/Documents/Collection/Sudoku/felgenhauer_jarvis_mathematics_of_sudoku_1.pdf</filename>
+    <filename>archived-reference:felgenhauer_jarvis_mathematics_of_sudoku_1.pdf</filename>
     <relative_filename></relative_filename>
     <key>felgenhauerja-1</key>
     <notes></notes>
@@ -139,7 +139,7 @@
     <bib_year>2006</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/matthew/Documents/Collection/Sudoku/gago_vargas_et_al_sudokus_and_groebner_bases.pdf</filename>
+    <filename>archived-reference:gago_vargas_et_al_sudokus_and_groebner_bases.pdf</filename>
     <relative_filename></relative_filename>
     <key>gagovargaset</key>
     <notes></notes>
@@ -155,7 +155,7 @@
     <bib_year>2005</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/matthew/Documents/Collection/Sudoku/knuth_dancing_links.ps</filename>
+    <filename>archived-reference:knuth_dancing_links.ps</filename>
     <relative_filename></relative_filename>
     <key>knuthdancing</key>
     <notes></notes>
@@ -171,7 +171,7 @@
     <bib_year></bib_year>
   </doc>
   <doc>
-    <filename>file:///home/matthew/Documents/Collection/Sudoku/lewis_metaheuristics_can_solve_sudoku_puzzles.pdf</filename>
+    <filename>archived-reference:lewis_metaheuristics_can_solve_sudoku_puzzles.pdf</filename>
     <relative_filename></relative_filename>
     <key>lewismetaheur</key>
     <notes></notes>
@@ -187,7 +187,7 @@
     <bib_year>2005</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/matthew/Documents/Collection/Sudoku/lynce_ouaknine.pdf</filename>
+    <filename>archived-reference:lynce_ouaknine.pdf</filename>
     <relative_filename></relative_filename>
     <key>lynceouaknine</key>
     <notes></notes>
@@ -203,7 +203,7 @@
     <bib_year>2005</bib_year>
   </doc>
   <doc>
-    <filename>file:///home/matthew/Documents/Collection/Sudoku/russell_jarvis_mathematics_of_sudoku_2.pdf</filename>
+    <filename>archived-reference:russell_jarvis_mathematics_of_sudoku_2.pdf</filename>
     <relative_filename></relative_filename>
     <key>russelljarvis</key>
     <notes></notes>
@@ -220,7 +220,7 @@
     <bib_extra key="month">January</bib_extra>
   </doc>
   <doc>
-    <filename>file:///home/matthew/Documents/Collection/Sudoku/simonis_sudoku_as_a_constraint_problem.pdf</filename>
+    <filename>archived-reference:simonis_sudoku_as_a_constraint_problem.pdf</filename>
     <relative_filename></relative_filename>
     <key>simonissudoku</key>
     <notes></notes>

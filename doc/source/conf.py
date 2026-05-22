@@ -38,7 +38,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'sudoku.py'
-copyright = u'2010, Sean Davis, Matthew Henderson, Andrew Smith'
+copyright = u'2010, Archived research team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -173,7 +173,7 @@ htmlhelp_basename = 'SudokuSciPy2010doc'
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'sudoku.py.tex', u'sudoku.py Documentation',
-   u'Sean Davis, Matthew Henderson, Andrew Smith', 'manual'),
+   u'Archived research team', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

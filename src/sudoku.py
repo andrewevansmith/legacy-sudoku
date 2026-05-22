@@ -1,4 +1,4 @@
-# Sean Davis, Matthew Henderson, Andrew Smith (Berea) 4.1.2010
+# Archived Sudoku modeling library, 2010.
 
 from __future__ import print_function
 
@@ -747,4 +747,3 @@ def to_minion_string(puzzle):
     puzzle_d = puzzle.get_fixed()
     boxsize = puzzle.get_boxsize()
     return to_minion_3_string_s(puzzle_d, boxsize)
-

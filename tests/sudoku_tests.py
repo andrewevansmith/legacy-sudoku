@@ -1,4 +1,4 @@
-# Sean Davis, Matthew Henderson, Andrew Smith (Berea) 4.1.2010
+# Archived Sudoku modeling tests, 2010.
 
 import sudoku
 
@@ -77,4 +77,3 @@ assert sudoku.cell_symbol_names(3)==[
                          'x55','x56','x57','x58','x59','x60','x61','x62','x63',
                          'x64','x65','x66','x67','x68','x69','x70','x71','x72',
                          'x73','x74','x75','x76','x77','x78','x79','x80','x81']
-

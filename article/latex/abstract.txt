@@ -15,8 +15,8 @@
 Modeling Sudoku puzzles with Python
 ========================
 
-:Author: Sean Davis <Sean_Davis@berea.edu>, Matthew Henderson <Matthew_Henderson@berea.edu>, Andrew Smith <Andrew_Smith@berea.edu>
-:Affiliation: Berea College
+:Author: Archived research team <research-team@example.com>
+:Affiliation: Independent archive
 
 The popular Sudoku puzzles which appear daily in newspapers the world over have, lately, attracted the attention of mathematicians and computer scientists. There are several, difficult, unsolved problems about these puzzles which make them especially interesting to mathematicians. And, as is well-known, the generalization of the Sudoku puzzle to larger dimension is an NP-complete problem and therefore is a problem of substantial interest to computer scientists.
 
