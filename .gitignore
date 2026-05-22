@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+*.dblite
+*.bak
+*.pyc
+__pycache__/
+.pytest_cache/
+build/
+doc/build/
+article/rst/output/
+
